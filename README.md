@@ -1,6 +1,5 @@
 # Patient-Diet-Recommendation-System-Using-Deep-Learning
 **Overview**
-
 This project develops a deep learning-based patient diet recommendation system that suggests suitable food products based on patients’ medical records, physical attributes, and nutritional requirements. The system integrates patient data with a product dataset and uses advanced machine learning and deep learning algorithms to classify foods as allowed or not allowed.
 
 **Features**
